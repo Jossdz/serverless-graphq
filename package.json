@@ -1,0 +1,17 @@
+{
+  "name": "severless-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mongoose": "^5.7.32",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "apollo-server-micro": "^2.16.0",
+    "dayjs": "^1.8.30",
+    "graphql": "^15.3.0",
+    "graphql-iso-date": "^3.6.1",
+    "mongoose": "^5.9.25"
+  }
+}
